@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<script type="text/javascript">
+
+window.onload= pageLoad;
+
+function pageLoad() {
+notshowPop= getCookieValue();
+
+}
+</script>
+</head>
+<body>
+	<form action="">
+		<input type="button" value="쿠키삭제" onclick="deleteCookie()">
+		
+		
+	</form>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<classpath>
+  <container id="pro21!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/javaweb/workspace/pro21/WebContent/WEB-INF/lib/org.springframework.beans-3.0.6.RELEASE.jar">
+      <source-attachment-path>C:/Program Files/Java/jdk1.8.0_231/src.zip</source-attachment-path>
+    </entry>
+    <entry id="C:/javaweb/workspace/pro21/WebContent/WEB-INF/lib/org.springframework.web-3.0.6.RELEASE.jar">
+      <source-attachment-path>C:/Program Files/Java/jdk1.8.0_231/src.zip</source-attachment-path>
+    </entry>
+    <entry id="C:/javaweb/workspace/pro21/WebContent/WEB-INF/lib/org.springframework.transaction-3.0.6.RELEASE.jar">
+      <source-attachment-path>C:/Program Files/Java/jdk1.8.0_231/src.zip</source-attachment-path>
+    </entry>
+    <entry id="C:/javaweb/workspace/pro21/WebContent/WEB-INF/lib/ojdbc6.jar">
+      <source-attachment-path>C:/Program Files/Java/jdk1.8.0_231/src.zip</source-attachment-path>
+    </entry>
+    <entry id="C:/javaweb/workspace/pro21/WebContent/WEB-INF/lib/org.springframework.web.servlet-3.0.6.RELEASE.jar">
+      <source-attachment-path>C:/Program Files/Java/jdk1.8.0_231/src.zip</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

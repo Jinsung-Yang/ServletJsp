@@ -1,0 +1,5 @@
+package com.devop.vertx.mod_devop_vertx;
+
+public class HelooVerticle {
+
+}
